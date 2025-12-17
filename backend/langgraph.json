@@ -1,0 +1,10 @@
+{
+  "$schema": "https://langgraph.ph/schema.json",
+  "graphs": {
+    "agent": {
+      "path": "./graph.ts:travelAgent",
+      "description": "Travel booking assistant"
+    }
+  },
+  "env": ".env"
+}
