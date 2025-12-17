@@ -9,6 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@copilotkit/react-core": "^1.50.0",
+    "@copilotkit/react-textarea": "^1.50.0",
+    "@copilotkit/react-ui": "^1.50.0",
+    "@copilotkit/runtime": "^1.50.0",
     "@fontsource/roboto": "^5.2.9",
     "next": "16.0.5",
     "react": "19.2.0",
